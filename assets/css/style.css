@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    transition: all ease 0.5s;
+} 
+
+body {
+    display: flex;
+    flex-flow: column;
+}
+
+
+header .content, main, footer .content {
+
+}
+
+footer { margin-top: auto;}
